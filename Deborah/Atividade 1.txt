@@ -1,0 +1,3 @@
+Dispositivo de entrada; microfone, mouse e teclado, USB, câmera.
+dispositivo de saída; fone, extensor, projetor, impressora.
+armazenamento de dados; SSD, HD 
